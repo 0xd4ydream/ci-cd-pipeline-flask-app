@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+LICENSE
+README.md
+.gitignore
